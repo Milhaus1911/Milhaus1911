@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm currently an IT specialist in Auckland, New Zealand, which I've been doing since 2018 after I completed a BSc in Computer Science and Physics at UoA.
+I'm currently an IT specialist in Auckland, New Zealand. I've been doing IT since 2018 after I completed a BSc in Computer Science and Physics at UoA.
 
-My goal is to use my Github [pages](https://milhaus1911.github.io/) (theres just a place holder there at the moment) as a blog and record of projects I've worked on. My current intrests is mainly in cyber security, but will  post about anything I find interesting really. 
+My goal is to use my Github [pages](https://milhaus1911.github.io/) (theres just a place holder there at the moment) as a blog and record of projects I've worked on. My current intrest is mainly in cyber security, but will try to post about anything I find interesting really. 
 
 I can be reached on Twitter @laytso 
 
